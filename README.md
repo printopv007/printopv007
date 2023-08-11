@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Printo P Varghese</h1>
 🔭 I’m currently working on MAC_Grievance<br><br>🌱 I’m currently learning Python Django<br><br>💬 Ask me about Python DJANGO,ANGULAR,HTML,CSS,PHP,JAVASCRIPT,MYSQL,PHOTOSHOP,AFTER EFFECTS,PREMIERE PRO<br><br>📫 How to reach me <a href="mailto:printopv007@gmail.com">printopv007@gmail.com</a> <br><br>📄 Know about my experiences <a href="https://drive.google.com/drive/folders/1f276SNxCt4l4e8oO0eZI61m_kn4wWLUi?usp=sharing">Here</a>
 
+[![](https://visitcount.itsvg.in/api?id=printopv007&icon=6&color=3)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/printo.pvarughese/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr_printopv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://in.linkedin.com/in/printo-p-varghese-499aa3250?original_referer=https%3A%2F%2Fwww.google.com%2F) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/mrprintopv) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mrprintopv) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@frostgaming3076) 
@@ -17,6 +18,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=printopv007&icon=6&color=3)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
