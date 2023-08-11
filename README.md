@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Printo P Varghese</h1>
 🔭 I’m currently working on MAC_Grievance<br><br>🌱 I’m currently learning Python Django<br><br>💬 Ask me about Python DJANGO,ANGULAR,HTML,CSS,PHP,JAVASCRIPT,MYSQL,PHOTOSHOP,AFTER EFFECTS,PREMIERE PRO<br><br>📫 How to reach me <a href="mailto:printopv007@gmail.com">printopv007@gmail.com</a> <br><br>📄 Know about my experiences <a href="https://drive.google.com/drive/folders/1f276SNxCt4l4e8oO0eZI61m_kn4wWLUi?usp=sharing">Here</a>
 <br> <br>
+
 [![](https://visitcount.itsvg.in/api?id=printopv007&icon=6&color=3)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
