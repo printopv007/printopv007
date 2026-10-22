@@ -1,30 +1,141 @@
-# 💫 About Me:
-<h1 align="center">Hi 👋, I'm Printo P Varghese</h1>
-<!-- 🔭 I’m currently working on a Private Project<br><br> -->
-🌱 I’m currently learning Angular, C#,SQL Server<br><br>
-💬 Ask me about DJANGO,ANGULAR,REACT,C# <br><br>📫 How to reach me
-<a href="mailto:printopv007@gmail.com">printopv007@gmail.com</a>
-<br><br>📄 Know about my experiences <a download="C:\Users\print\OneDrive\Desktop\cv">Here </a>
-<br> <br>
+# Hi, I'm Printo P. Varghese 👋
 
+### Software Engineer | Full-Stack Developer | Angular • .NET • SQL Server
 
-[![](https://visitcount.itsvg.in/api?id=printopv007&icon=6&color=3)](https://visitcount.itsvg.in)
+I'm a Software Engineer with **3 years of experience** building and maintaining web applications using Angular, C#, ASP.NET Core Web API, and Microsoft SQL Server.
 
+I enjoy developing scalable, maintainable applications, building RESTful APIs, optimizing database performance, and delivering features that solve real-world business problems.
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/printo.pvarughese/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr_printopv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://in.linkedin.com/in/printo-p-varghese-499aa3250) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22363984/mrprintopv) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mrprintopv) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@frostgaming3076) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=printopv007&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=printopv007&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=printopv007&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+- 🔭 **Currently working with:** Angular, .NET, and SQL Server
+- 💻 **Specialization:** Full-stack web application development
+- 🏢 **Domain experience:** Space management, room and seat reservations, IoT sensor monitoring, and analytics
+- 🌱 **Currently learning:** Advanced Angular, .NET architecture, and performance optimization
+- 🎯 **Career goal:** Contributing to product-based companies and building high-quality software solutions
 
 ---
 
+## 🛠️ Technical Skills
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Frontend Development
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+- Angular components, services, routing, dependency injection, and reactive forms
+- RxJS, Observables, and API integration
+- Angular Material and responsive UI development
+
+### Backend Development
+![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![DotNet](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+- C# and object-oriented programming (OOP)
+- ASP.NET Core Web API and RESTful services
+- Dependency injection and middleware
+- Exception handling, validation, and authentication concepts
+- Clean, maintainable, and reusable code
+
+### Database
+![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+- Microsoft SQL Server
+- Complex SQL queries, joins, CTEs, and window functions
+- Stored procedures, functions, and views
+- Query optimization and indexing
+- Transactions and data integrity
+
+### Tools & Workflow
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+
+- Git, SVN, branching, merging, and code reviews
+- Azure DevOps and Zoho Sprints
+- Agile development and collaborative delivery
+- Debugging, testing, and production issue resolution
+
+---
+
+## 💼 Professional Experience
+
+### Software Engineer | Full-Stack Development
+
+Working with Angular, .NET, and SQL Server to develop and maintain enterprise web applications.
+
+**Key areas of contribution:**
+
+- Developed frontend features using Angular and TypeScript.
+- Built backend functionality and REST APIs using C# and .NET.
+- Created and maintained SQL Server stored procedures and queries.
+- Contributed to room and seat reservation workflows with real-time availability and conflict handling.
+- Worked on space utilization and heatmap analytics using occupancy data.
+- Integrated live IoT sensor data for occupancy monitoring.
+- Contributed to customer data migration between product versions.
+- Worked on asset management and interactive data-driven interfaces.
+- Collaborated with cross-functional teams throughout the software development lifecycle.
+
+---
+
+## 🚀 Featured Projects
+
+### 1. Space Utilization & Heatmap Analytics
+**Tech Stack:** Angular, .NET, SQL Server
+
+- Developed features for visualizing space utilization and occupancy information.
+- Worked with occupancy data to support heatmap reports and analytics.
+- Built data-driven interfaces for presenting actionable insights.
+
+### 2. Room & Seat Reservation System
+**Tech Stack:** Angular, ASP.NET Core Web API, SQL Server
+
+- Developed reservation workflows for rooms and seats.
+- Worked on availability checks and booking conflict prevention.
+- Integrated frontend components with backend APIs and database operations.
+
+### 3. Live Sensor Monitoring
+**Tech Stack:** Angular, .NET, SQL Server, IoT Integration
+
+- Contributed to integrating sensor data for occupancy monitoring.
+- Worked on displaying live occupancy information through web interfaces.
+- Supported space monitoring and utilization-related functionality.
+
+### 4. Customer Data Migration
+**Tech Stack:** C#, .NET, SQL Server
+
+- Contributed to migrating customer data between product versions.
+- Worked with SQL queries and data transformation logic.
+- Supported data consistency and validation during migration.
+
+---
+
+## 🎓 Education
+
+- **Master of Computer Applications (MCA)** — 2021–2023
+- **Bachelor of Science in Computer Science** — 2018–2021
+
+---
+
+## 📊 GitHub Overview
+
+<!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username. -->
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=printopv007&show_icons=true&theme=github_dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=printopv007&layout=compact&theme=github_dark&hide_border=true)
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in connecting with developers, engineering teams, and recruiters working on exciting software products.
+
+- 💼 LinkedIn: [www.linkedin.com/in/printo-p-varghese-499aa3250](https://www.linkedin.com/)
+- 💻 GitHub: [https://github.com/printopv007](https://github.com/)
+- 📧 Email: printopvarghese@gmail.com
+
+---
+
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
